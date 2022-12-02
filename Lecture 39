@@ -1,0 +1,4 @@
+# strings are immutable
+string = "string"
+new_string = string.replace('i','o')
+print(new_string)
