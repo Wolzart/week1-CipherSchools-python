@@ -1,0 +1,14 @@
+name='    apoorv    '
+d1='...........'   
+
+# lstrip method
+a=d1+name+d1
+print(a)
+print(d1+name.lstrip()+d1)
+print(d1+name.rstrip()+d1)
+print(d1+name.strip()+d1)
+
+
+n1=' AP   OO  RV  '
+# all space remove
+print(n1.replace(' ',''))
