@@ -4,4 +4,4 @@ name= input("Enter your name: ")
 print("Your name "+ name)
 # string
 age = input("Enter your age: ")
-print(name+"Your age is"+age)
+print(name+" Your age is "+age)
