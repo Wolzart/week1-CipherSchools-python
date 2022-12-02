@@ -1,0 +1,14 @@
+first='Apoorv'
+second='Patel'
+full= first + second
+print(full)
+full= first +' '+ second
+print(full)
+
+a='Apoorv'
+b='3'
+print(a+b)
+b=3
+print(a+str(b))
+
+print(a*3)
